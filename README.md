@@ -1,6 +1,6 @@
 # Notes-App-main
  
-The Notes App Cipherschools is a simple web application that allows users to create, edit, and delete notes. It is built using HTML, CSS, and JavaScript. The project is hosted on Netlify at https://ciphernotes.netlify.app/
+The Notes App Cipherschools is a simple web application that allows users to create, edit, and delete notes. It is built using HTML, CSS, and JavaScript. The project is hosted on Netlify at https://cipher-notesapp.netlify.app/
 
 # Features
 Create new notes
@@ -10,7 +10,7 @@ Notes are stored in the browser's local storage
 Getting Started
 Clone the repository:
 bash
-git clone https://github.com/awasthi108/Notes-App-Cipherschools.git
+https://github.com/sahilpate-221s/Notes-app-cipherSchool.git
 
 
 # Usage
